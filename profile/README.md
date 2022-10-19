@@ -1,5 +1,15 @@
 ## Hi there this is TEDxUINJakarta Repository👋
 
+![Background(1)](https://user-images.githubusercontent.com/66078837/196711123-2e64c7b2-6c86-440d-89ee-d81f77c682f5.png)
+
+Contributor 🙋‍♀️ 
+- Azzam Ubaidillah
+- Vaza Rizki
+- Ghany Fitriamara
+- Ridwan Ali Raharja
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
